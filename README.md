@@ -4,7 +4,8 @@
  
 </div>
 
-[![Discord Bots](https://top.gg/api/widget/status/822024784732487710.svg)](https://top.gg/bot/822024784732487710) [![Discord Bots](https://top.gg/api/widget/upvotes/822024784732487710.svg)](https://top.gg/bot/822024784732487710)
+[![Discord Bots](https://top.gg/api/widget/status/822024784732487710.svg)](https://top.gg/bot/822024784732487710) [![Discord Bots](https://top.gg/api/widget/owner/822024784732487710.svg)](https://top.gg/bot/822024784732487710)
+ [![Discord Bots](https://top.gg/api/widget/upvotes/822024784732487710.svg)](https://top.gg/bot/822024784732487710)
 
 
 **De & go** mobile app is a remote controller for De & go Discord bot and the bot can only be controlled using this app.
